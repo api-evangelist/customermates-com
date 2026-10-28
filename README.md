@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Customermates is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://customermates.com
+Customermates is an open‑source, AI‑native CRM designed for small client‑facing teams. It offers configurable records, integrated email, LinkedIn and WhatsApp communication, AI‑driven next‑step suggestions, a native MCP endpoint for AI clients, and a self‑hosted deployment model. The platform provides a developer‑friendly API for automation and integration, enabling teams to manage contacts and interactions efficiently.
+
+**Areas:** Company · CRM · Open-Source · AI · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://customermates.com)
+- [Documentation](https://customermates.com/en/docs)
+- [Getting started](https://customermates.com/en/raw/docs/quickstart)
+- [API reference](https://customermates.com/llms.txt)
+- [Pricing](https://customermates.com/en/pricing)
+- [Support](https://customermates.com/en/contact)
+- [Blog](https://customermates.com/en/blog)
+- [Terms of service](https://customermates.com/en/terms)
+- [Privacy policy](https://customermates.com/en/privacy)
+
+**APIs profiled:** 15
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/customermates-com/](https://apis.io/providers/customermates-com/).

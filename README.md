@@ -68,6 +68,80 @@ Customermates is an open‑source, AI‑native CRM designed for small client‑f
 
 **Areas:** Company · CRM · Open-Source · AI · SaaS
 
+## Customermates on APIs.io
+
+Everything profiled for Customermates is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/customermates-com/](https://apis.io/providers/customermates-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [Customermates Addresses API](https://apis.io/apis/customermates-com/customermates-com-addresses-api/) — The addresses API from Customermates — 3 operation(s) for addresses.
+- [Customermates Data Views API](https://apis.io/apis/customermates-com/customermates-com-data-views-api/) — The data-views API from Customermates — 9 operation(s) for data-views.
+- [Customermates Files API](https://apis.io/apis/customermates-com/customermates-com-files-api/) — The files API from Customermates — 6 operation(s) for files.
+- [Customermates Knowledge Base API](https://apis.io/apis/customermates-com/customermates-com-knowledge-base-api/) — The knowledge-base API from Customermates — 7 operation(s) for knowledge-base.
+- [Customermates Members API](https://apis.io/apis/customermates-com/customermates-com-members-api/) — The members API from Customermates — 4 operation(s) for members.
+- [Customermates Messaging API](https://apis.io/apis/customermates-com/customermates-com-messaging-api/) — The messaging API from Customermates — 35 operation(s) for messaging.
+- [Customermates Operations API](https://apis.io/apis/customermates-com/customermates-com-operations-api/) — The operations API from Customermates — 3 operation(s) for operations.
+- [Customermates Record Links API](https://apis.io/apis/customermates-com/customermates-com-record-links-api/) — The record-links API from Customermates — 2 operation(s) for record-links.
+- [Customermates Records API](https://apis.io/apis/customermates-com/customermates-com-records-api/) — The records API from Customermates — 16 operation(s) for records.
+- [Customermates Roles API](https://apis.io/apis/customermates-com/customermates-com-roles-api/) — The roles API from Customermates — 4 operation(s) for roles.
+- [Customermates Routines API](https://apis.io/apis/customermates-com/customermates-com-routines-api/) — The routines API from Customermates — 9 operation(s) for routines.
+- [Customermates Trash API](https://apis.io/apis/customermates-com/customermates-com-trash-api/) — The trash API from Customermates — 6 operation(s) for trash.
+- [Customermates Users API](https://apis.io/apis/customermates-com/customermates-com-users-api/) — The users API from Customermates — 2 operation(s) for users.
+- [Customermates Webhooks API](https://apis.io/apis/customermates-com/customermates-com-webhooks-api/) — The webhooks API from Customermates — 5 operation(s) for webhooks.
+- [Customermates Widgets API](https://apis.io/apis/customermates-com/customermates-com-widgets-api/) — The widgets API from Customermates — 5 operation(s) for widgets.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Customermates Com Webhooks](https://apis.io/asyncapis/customermates-com/customermates-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Customermates Com Agentic Access](https://apis.io/agentic-access/customermates-com/customermates-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CalculationExpressionOutput](https://apis.io/schemas/customermates-com/customermates-com-calculation-expression-output/)
+- [GetMessagingThreadResultSchema](https://apis.io/schemas/customermates-com/customermates-com-get-messaging-thread-result-schema/)
+- [RecordSource](https://apis.io/schemas/customermates-com/customermates-com-record-source/)
+- [RecordSourceOutput](https://apis.io/schemas/customermates-com/customermates-com-record-source-output/)
+- [RoutineDtoSchema](https://apis.io/schemas/customermates-com/customermates-com-routine-dto-schema/)
+- [WebhookPublicDtoSchema](https://apis.io/schemas/customermates-com/customermates-com-webhook-public-dto-schema/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Customermates Com Context](https://apis.io/jsonld/customermates-com/customermates-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Customermates Com Openapi Overlay](https://apis.io/overlays/customermates-com/customermates-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Customermates API Rules](https://apis.io/rules/customermates-com/customermates-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Customermates Com Authentication](https://apis.io/security/customermates-com/customermates-com-authentication/)
+- [Customermates Com Domain Security](https://apis.io/security/customermates-com/customermates-com-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -82,8 +156,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Terms of service](https://customermates.com/en/terms)
 - [Privacy policy](https://customermates.com/en/privacy)
 
-**APIs profiled:** 15
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/customermates-com/](https://apis.io/providers/customermates-com/).
+**Kin Score 54.9** — strong · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 66.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 44.7 |
+
+**Agent readiness 67.5** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/customermates-com/](https://apis.io/providers/customermates-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Customermates: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/customermates-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
